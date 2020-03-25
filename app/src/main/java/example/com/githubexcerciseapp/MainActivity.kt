@@ -3,6 +3,9 @@ package example.com.githubexcerciseapp
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
+/**
+ * For Github Exercise only
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
